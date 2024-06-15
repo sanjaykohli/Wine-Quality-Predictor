@@ -19,18 +19,26 @@ These instructions will help you set up the project on your local machine for de
 ### Installation
 
 1. Clone the repository:
+```bash
 git clone https://github.com/sanjaykohli/Wine-Quality-Predictor.git
-  
-2. Navigate to the project directory:
+```
+
+3. Navigate to the project directory:
+```bash
 cd Wine-Quality-Predictor
+```
 
-3. Install the required packages:
+5. Install the required packages:
+```bash
 pip install -r requirements.txt
+```
 
-4. Run the Flask application:
+7. Run the Flask application:
+```bash
 python app.py
+```
 
-5. Open your web browser and visit `http://localhost:5000` to access the Wine Quality Predictor.
+8. Open your web browser and visit `http://localhost:5000` to access the Wine Quality Predictor.
 
 ## Usage
 
